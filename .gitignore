@@ -1,0 +1,3 @@
+echo "renv/library" >> .gitignore
+echo "renv/staging" >> .gitignore
+echo "renv/cache" >> .gitignore
